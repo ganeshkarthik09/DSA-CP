@@ -23,6 +23,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,12 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
