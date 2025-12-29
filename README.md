@@ -24,6 +24,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ganeshkarthik09/DSA-CP/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ganeshkarthik09/DSA-CP/tree/master/3074-apple-redistribution-into-boxes) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +42,8 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Sorting
+|  |
+| ------- |
+| [3074-apple-redistribution-into-boxes](https://github.com/ganeshkarthik09/DSA-CP/tree/master/3074-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->
