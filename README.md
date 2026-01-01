@@ -51,4 +51,5 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0066-plus-one) |
+| [2652-sum-multiples](https://github.com/ganeshkarthik09/DSA-CP/tree/master/2652-sum-multiples) |
 <!---LeetCode Topics End-->
