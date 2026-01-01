@@ -22,6 +22,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0066-plus-one) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ganeshkarthik09/DSA-CP/tree/master/3074-apple-redistribution-into-boxes) |
@@ -46,4 +47,8 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [3074-apple-redistribution-into-boxes](https://github.com/ganeshkarthik09/DSA-CP/tree/master/3074-apple-redistribution-into-boxes) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
