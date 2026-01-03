@@ -26,6 +26,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ganeshkarthik09/DSA-CP/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Matrix
 |  |
 | ------- |
@@ -48,6 +50,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 ## Sorting
 |  |
 | ------- |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ganeshkarthik09/DSA-CP/tree/master/3074-apple-redistribution-into-boxes) |
 ## Math
 |  |
