@@ -58,6 +58,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 | ------- |
 | [0066-plus-one](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0066-plus-one) |
 | [1390-four-divisors](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1390-four-divisors) |
+| [2523-closest-prime-numbers-in-range](https://github.com/ganeshkarthik09/DSA-CP/tree/master/2523-closest-prime-numbers-in-range) |
 | [2652-sum-multiples](https://github.com/ganeshkarthik09/DSA-CP/tree/master/2652-sum-multiples) |
 ## String
 |  |
@@ -71,4 +72,8 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/ganeshkarthik09/DSA-CP/tree/master/3174-clear-digits) |
+## Number Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/ganeshkarthik09/DSA-CP/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
