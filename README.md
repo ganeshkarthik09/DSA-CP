@@ -23,6 +23,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0066-plus-one) |
+| [0810-chalkboard-xor-game](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0810-chalkboard-xor-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -57,6 +58,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0066-plus-one) |
+| [0810-chalkboard-xor-game](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0810-chalkboard-xor-game) |
 | [1390-four-divisors](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1390-four-divisors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/ganeshkarthik09/DSA-CP/tree/master/2523-closest-prime-numbers-in-range) |
 | [2652-sum-multiples](https://github.com/ganeshkarthik09/DSA-CP/tree/master/2652-sum-multiples) |
@@ -76,4 +78,16 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/ganeshkarthik09/DSA-CP/tree/master/2523-closest-prime-numbers-in-range) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0810-chalkboard-xor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0810-chalkboard-xor-game) |
+## Game Theory
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
