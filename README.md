@@ -65,10 +65,12 @@ To consistently improve problem-solving skills and understand core algorithmic c
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0020-valid-parentheses) |
 | [3174-clear-digits](https://github.com/ganeshkarthik09/DSA-CP/tree/master/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0020-valid-parentheses) |
 | [3174-clear-digits](https://github.com/ganeshkarthik09/DSA-CP/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
