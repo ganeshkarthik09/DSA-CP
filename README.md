@@ -39,6 +39,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [2745-construct-the-longest-new-string](https://github.com/ganeshkarthik09/DSA-CP/tree/master/2745-construct-the-longest-new-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ganeshkarthik09/DSA-CP/tree/master/3074-apple-redistribution-into-boxes) |
 ## Binary Search
 |  |
@@ -62,6 +63,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 | [1390-four-divisors](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1390-four-divisors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/ganeshkarthik09/DSA-CP/tree/master/2523-closest-prime-numbers-in-range) |
 | [2652-sum-multiples](https://github.com/ganeshkarthik09/DSA-CP/tree/master/2652-sum-multiples) |
+| [2745-construct-the-longest-new-string](https://github.com/ganeshkarthik09/DSA-CP/tree/master/2745-construct-the-longest-new-string) |
 ## String
 |  |
 | ------- |
@@ -88,8 +90,13 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0810-chalkboard-xor-game) |
+| [2745-construct-the-longest-new-string](https://github.com/ganeshkarthik09/DSA-CP/tree/master/2745-construct-the-longest-new-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0810-chalkboard-xor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2745-construct-the-longest-new-string](https://github.com/ganeshkarthik09/DSA-CP/tree/master/2745-construct-the-longest-new-string) |
 <!---LeetCode Topics End-->
