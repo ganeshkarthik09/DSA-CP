@@ -11,7 +11,7 @@ public:
             if (i < n) {
                 ans[i] = st.empty() ? -1 : st.top();
             }
-            st.push(nums[i%n]);
+            st.push(nums[i % n]);
         }
         return ans;
     }
