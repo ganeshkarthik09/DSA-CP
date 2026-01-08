@@ -24,6 +24,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 | ------- |
 | [0066-plus-one](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0066-plus-one) |
 | [0496-next-greater-element-i](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0503-next-greater-element-ii) |
 | [0810-chalkboard-xor-game](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0810-chalkboard-xor-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -76,6 +77,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 | ------- |
 | [0020-valid-parentheses](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0503-next-greater-element-ii) |
 | [3174-clear-digits](https://github.com/ganeshkarthik09/DSA-CP/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
@@ -106,4 +108,5 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
