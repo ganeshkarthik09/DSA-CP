@@ -36,6 +36,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -72,6 +73,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0020-valid-parentheses) |
+| [0290-word-pattern](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0290-word-pattern) |
 | [3174-clear-digits](https://github.com/ganeshkarthik09/DSA-CP/tree/master/3174-clear-digits) |
 ## Stack
 |  |
