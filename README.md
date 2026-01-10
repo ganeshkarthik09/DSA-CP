@@ -31,6 +31,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1390-four-divisors) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1441-build-an-array-with-stack-operations) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ganeshkarthik09/DSA-CP/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
@@ -82,11 +83,13 @@ To consistently improve problem-solving skills and understand core algorithmic c
 | [0496-next-greater-element-i](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0735-asteroid-collision) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1441-build-an-array-with-stack-operations) |
 | [3174-clear-digits](https://github.com/ganeshkarthik09/DSA-CP/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0735-asteroid-collision) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1441-build-an-array-with-stack-operations) |
 | [3174-clear-digits](https://github.com/ganeshkarthik09/DSA-CP/tree/master/3174-clear-digits) |
 ## Number Theory
 |  |
