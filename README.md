@@ -22,6 +22,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0066-plus-one) |
 | [0496-next-greater-element-i](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0503-next-greater-element-ii) |
@@ -117,4 +118,8 @@ To consistently improve problem-solving skills and understand core algorithmic c
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0503-next-greater-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
