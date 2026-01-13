@@ -14,7 +14,8 @@ public:
             st.pop();
             k--;
         }
-        if (st.empty()) return "0";
+        if (st.empty())
+            return "0";
 
         string ans;
         while (!st.empty()) {
@@ -23,7 +24,8 @@ public:
         }
         reverse(ans.begin(), ans.end());
         int i = 0;
-        while (i < ans.size() && ans[i] == '0') i++;
+        while (i < ans.size() && ans[i] == '0')
+            i++;
         ans = ans.substr(i);
 
         return ans.empty() ? "0" : ans;
