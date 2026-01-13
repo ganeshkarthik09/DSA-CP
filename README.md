@@ -36,6 +36,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 | [1390-four-divisors](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1390-four-divisors) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1441-build-an-array-with-stack-operations) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2104-sum-of-subarray-ranges](https://github.com/ganeshkarthik09/DSA-CP/tree/master/2104-sum-of-subarray-ranges) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ganeshkarthik09/DSA-CP/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 | [0735-asteroid-collision](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0907-sum-of-subarray-minimums) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1441-build-an-array-with-stack-operations) |
+| [2104-sum-of-subarray-ranges](https://github.com/ganeshkarthik09/DSA-CP/tree/master/2104-sum-of-subarray-ranges) |
 | [3174-clear-digits](https://github.com/ganeshkarthik09/DSA-CP/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
@@ -124,6 +126,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 | [0496-next-greater-element-i](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/ganeshkarthik09/DSA-CP/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
