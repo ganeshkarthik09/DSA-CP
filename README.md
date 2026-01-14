@@ -24,6 +24,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 | ------- |
 | [0031-next-permutation](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0066-plus-one) |
+| [0239-sliding-window-maximum](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0735-asteroid-collision) |
@@ -144,4 +145,20 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0155-min-stack) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
