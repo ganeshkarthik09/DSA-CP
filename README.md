@@ -87,6 +87,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0503-next-greater-element-ii) |
@@ -139,4 +140,8 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1266-minimum-time-visiting-all-points) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
