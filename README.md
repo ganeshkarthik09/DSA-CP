@@ -23,6 +23,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0066-plus-one) |
 | [0239-sliding-window-maximum](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0496-next-greater-element-i) |
@@ -88,6 +89,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0496-next-greater-element-i) |
@@ -123,11 +125,13 @@ To consistently improve problem-solving skills and understand core algorithmic c
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0907-sum-of-subarray-minimums) |
 | [2745-construct-the-longest-new-string](https://github.com/ganeshkarthik09/DSA-CP/tree/master/2745-construct-the-longest-new-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0503-next-greater-element-ii) |
@@ -137,6 +141,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0042-trapping-rain-water) |
 ## Geometry
 |  |
 | ------- |
