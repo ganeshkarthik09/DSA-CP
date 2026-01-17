@@ -76,6 +76,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 | ------- |
 | [0066-plus-one](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0066-plus-one) |
 | [0810-chalkboard-xor-game](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0810-chalkboard-xor-game) |
+| [0836-rectangle-overlap](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1390-four-divisors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/ganeshkarthik09/DSA-CP/tree/master/2523-closest-prime-numbers-in-range) |
@@ -155,6 +156,7 @@ To consistently improve problem-solving skills and understand core algorithmic c
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/ganeshkarthik09/DSA-CP/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ganeshkarthik09/DSA-CP/tree/master/1266-minimum-time-visiting-all-points) |
 ## Design
 |  |
